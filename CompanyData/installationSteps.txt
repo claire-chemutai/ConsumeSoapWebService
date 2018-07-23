@@ -1,0 +1,16 @@
+run the setUp.exe application inside the setUp folder.
+
+The Company Application set up wizard will pop up.
+
+click next to continue the installation.
+
+Click next to install the application in the given folder, or browse to change the folder name, then click next
+
+Set up will  create a program shortcut in the named folder. 
+Browse if you would like to  to change the folder,then click next.
+
+Check the box to create a desktop icon
+
+Click install to continue with installation or back to go back
+
+Finish to Launch the application

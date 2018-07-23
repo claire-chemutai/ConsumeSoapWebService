@@ -1,0 +1,88 @@
+May 14, 2018 7:18:06 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 7:18:09 AM companydata.CompanyData main
+INFO: insert departments
+May 14, 2018 7:18:15 AM companydata.CompanyData main
+INFO: insert staff
+May 14, 2018 7:24:38 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 7:24:39 AM companydata.CompanyData main
+INFO: insert departments
+May 14, 2018 7:26:08 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 7:26:11 AM companydata.CompanyData main
+INFO: insert departments
+May 14, 2018 7:26:16 AM companydata.CompanyData main
+INFO: insert staff
+May 14, 2018 9:48:28 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 9:48:30 AM companydata.CompanyData main
+INFO: insert departments
+May 14, 2018 9:48:39 AM companydata.CompanyData main
+INFO: insert staff
+May 14, 2018 9:49:21 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 9:49:23 AM companydata.CompanyData main
+INFO: insert departments
+May 14, 2018 9:49:28 AM companydata.CompanyData main
+INFO: insert staff
+May 14, 2018 9:50:31 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 9:50:32 AM companydata.CompanyData main
+INFO: insert departments
+May 14, 2018 9:50:37 AM companydata.CompanyData main
+INFO: insert staff
+May 14, 2018 10:27:17 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 10:27:18 AM companydata.CompanyData main
+INFO: insert departments
+May 14, 2018 10:27:21 AM companydata.CompanyData main
+INFO: insert staff
+May 14, 2018 10:29:11 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 10:29:12 AM companydata.CompanyData main
+INFO: insert departments
+May 14, 2018 10:29:14 AM companydata.CompanyData main
+INFO: insert staff
+May 14, 2018 10:30:08 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 10:30:08 AM companydata.CompanyData main
+INFO: insert departments
+May 14, 2018 10:30:08 AM companydata.CompanyData main
+INFO: insert staff
+May 14, 2018 10:32:07 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 10:32:08 AM companydata.CompanyData main
+INFO: insert departments
+May 14, 2018 10:32:11 AM companydata.CompanyData main
+INFO: insert staff
+May 14, 2018 10:53:27 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 10:53:33 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 10:53:34 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 10:53:36 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 10:53:37 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 10:53:39 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 10:53:40 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 10:53:41 AM companydata.CompanyData main
+INFO: connect database
+May 14, 2018 10:53:42 AM companydata.CompanyData main
+INFO: connect database
+Jul 23, 2018 9:27:04 AM companydata.CompanyData main
+INFO: connect database
+Jul 23, 2018 9:27:06 AM companydata.CompanyData main
+INFO: insert departments
+Jul 23, 2018 9:27:17 AM companydata.CompanyData main
+INFO: insert staff
+Jul 23, 2018 9:33:46 AM companydata.CompanyData main
+INFO: connect database
+Jul 23, 2018 9:33:47 AM companydata.CompanyData main
+INFO: insert departments
+Jul 23, 2018 9:33:51 AM companydata.CompanyData main
+INFO: insert staff
